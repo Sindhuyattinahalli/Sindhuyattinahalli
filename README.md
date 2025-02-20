@@ -12,7 +12,6 @@ sindhu-s-yattinahalli-5104)
 - 💡 I love working on:** Backend Development**– Building APIs, databases, and server-side logic using Python (Django/Flask) and PostgreSQL.
 - 🚀 Currently building: CODETUBE - A platform for coders to learn, compete, and connect.
 - 🎮 Hobbies: Gaming, reading tech blogs, and exploring new programming languages.
-- 🌍 Open to: Collaborations, hackathons, and open-source contributions.
 - 📚 Favorite Programming Languages: Python, C, and exploring more!
 - 🤝 Let’s connect: Feel free to reach out for coding discussions and collaborations!
 
