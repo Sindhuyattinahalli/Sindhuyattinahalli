@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning BAckend Development, Data Structures & Algorithms.
 - 💞️ I’m looking to collaborate on Open Source Projects and Hackthons.
 - 📫 How to reach me
-  - Email:    [yattnallishivanandappa@gmail.com](mailto:yattnallishivanandappa@gmail.com)
+  - Email:    [yattnallishivanandappa@gmail.com](mailto:sindhuyattinahalli@gmail.com)
   - LinkedIn: [Sindhu Yattinahalli](https://www.linkedin.com/in/
-sindhu-s-yattinahalli-5104)
+sindhu-s-yattinahalli)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love coding and exploring new technologies.
 -  🎯 My goal: To become a software engineer at a top product company like Google or Microsoft.
