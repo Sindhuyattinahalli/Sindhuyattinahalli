@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning BAckend Development, Data Structures & Algorithms.
 - 💞️ I’m looking to collaborate on Open Source Projects and Hackthons.
 - 📫 How to reach me
-  - Email:    [(mailto:sindhuyattinahalli@gmail.com)]
+  - Email:    [(mail to:sindhuyattinahalli@gmail.com)]
   - LinkedIn: [Sindhu Yattinahalli](https://www.linkedin.com/in/
 sindhu-s-yattinahalli)
 - 😄 Pronouns: She/Her
