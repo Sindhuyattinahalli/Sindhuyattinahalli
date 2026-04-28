@@ -9,10 +9,10 @@ sindhu-s-yattinahalli)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love coding and exploring new technologies.
 -  🎯 My goal: To become a software engineer at a top product company like Google or Microsoft.
-- 💡 I love working on:** Backend Development**– Building APIs, databases, and server-side logic using Python (Django/Flask) and PostgreSQL.
+- 💡 I love working on:** Backend Development**– Building APIs, databases, and server-side logic using Java (Spring) and OracleSQL.
 - 🚀 Currently building: CODETUBE - A platform for coders to learn, compete, and connect.
 - 🎮 Hobbies: Gaming, reading tech blogs, and exploring new programming languages.
-- 📚 Favorite Programming Languages: Python, C, and exploring more!
+- 📚 Favorite Programming Languages: Java, Python, and exploring more!
 - 🤝 Let’s connect: Feel free to reach out for coding discussions and collaborations!
 
 
